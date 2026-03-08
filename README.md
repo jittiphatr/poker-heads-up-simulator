@@ -9,6 +9,8 @@ python main.py
 No input is required. The program will automatically deal the cards and print the result.
 
 ## Example Output
-Player:  ['Q♦️', 'T♠️']
-Dealer:  ['A♠️', 'K♠️']
-Board:  ['A♥️', '7♠️', '9♥️', 'K♣️', '9♣️']
+```text
+Player: ['Q♦️', 'T♠️']
+Dealer: ['A♠️', 'K♠️']
+Board: ['A♥️', '7♠️', '9♥️', 'K♣️', '9♣️']
+```
